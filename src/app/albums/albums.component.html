@@ -1,0 +1,4 @@
+<p *ngIf="!albums.length" > Loading... </p>
+<ul *ngIf="albums.length">
+  <li *ngFor="let album of albums" >{{album.title}}</li>
+</ul>

@@ -1,0 +1,21 @@
+p{
+  color: brown;
+  padding: 20px;
+  border: 1px solid brown;
+}
+ul{
+  margin-left: 100px;
+  margin-right: 100px;
+}
+li{
+  padding: 20px;
+  background-color: whitesmoke;
+  color: brown;
+  border: 1px solid brown;
+  list-style-type: none;
+  margin-bottom: 10px;
+}
+li:hover{
+  color: whitesmoke;
+  background-color: brown;
+}

@@ -1,0 +1,31 @@
+nav{
+  text-align: center;
+}
+button{
+  background-color: whitesmoke;
+  color: brown;
+  border: 1px solid brown;
+  height: 30px;
+  width: 100px;
+  margin-right: 10px;
+  text-align: center;
+}
+
+button:hover{
+  color: whitesmoke;
+  background-color: brown;
+}
+
+.active{
+  background-color: whitesmoke;
+  color: green;
+  border: 1px solid green;
+  height: 30px;
+  width: 100px;
+  margin-right: 10px;
+  text-align: center;
+}
+.active:hover{
+  color: white;
+  background-color: green
+}
